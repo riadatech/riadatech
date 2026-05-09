@@ -1,0 +1,64 @@
+.rt-home-account {
+  position: relative;
+}
+
+.rt-home-account-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 36px;
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--rt-input-border);
+  background: var(--rt-input-bg);
+  color: var(--rt-button-secondary-text);
+  font-family: "IBM Plex Sans Arabic", "Tajawal", system-ui, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.rt-home-account-menu {
+  position: absolute;
+  top: calc(100% + 12px);
+  inset-inline-start: 0;
+  min-width: 220px;
+  padding: 10px;
+  border-radius: 22px;
+  border: 1px solid var(--rt-border);
+  background: var(--rt-surface);
+  box-shadow: var(--rt-shadow-strong);
+  z-index: 1200;
+}
+
+.rt-home-account-label {
+  padding: 10px 12px;
+  color: var(--rt-text-muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.rt-home-account-link,
+.rt-home-account-logout {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border-radius: 16px;
+  color: var(--rt-text-primary);
+  text-decoration: none;
+  background: transparent;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+  cursor: pointer;
+}
+
+.rt-home-account-link:hover,
+.rt-home-account-logout:hover {
+  background: var(--rt-accent-soft-bg);
+  color: var(--rt-accent-strong);
+}

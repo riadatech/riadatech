@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "falak";
+  src: url("../assets/falak.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "29LT Riwaya";
+  src: url("../assets/29LT-Riwaya.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.rt-logo-mark {
+  display: inline-flex;
+  align-items: baseline;
+  line-height: 1;
+  white-space: nowrap;
+  font-weight: 400;
+}
+
+.rt-logo-mark.is-ar {
+  font-family: "falak";
+}
+
+.rt-logo-mark.is-en {
+  font-family: "29LT Riwaya";
+}
+
+.rt-logo-mark-primary {
+  color: var(--foreground);
+}
+
+.rt-logo-mark-accent {
+  color: var(--logo-accent);
+}

@@ -1,0 +1,143 @@
+name,category,latitude,longitude,osm_type,osm_id,source
+مخبز تنور إيراني,bakery,24.3246139,56.7578073,node,8014353614,OpenStreetMap
+Bank Muscat,bank,24.3507986,56.7317248,node,4373246992,OpenStreetMap
+Bank Muscat,bank,24.3676706,56.7463525,node,13306429602,OpenStreetMap
+Bank Muscat - Sohar Branch,bank,24.35095,56.7318,node,6598402990,OpenStreetMap
+Bank Sohar,bank,24.351335,56.7314805,node,4373194899,OpenStreetMap
+Muzn Bank,bank,24.3517084,56.7319355,node,4373201799,OpenStreetMap
+Sohar International Bank - Sohar Branch,bank,24.3513196,56.7315449,node,6598466585,OpenStreetMap
+البنك الوطني العماني,bank,24.3373351,56.7347447,node,3731672520,OpenStreetMap
+بنك HSBC,bank,24.3521034,56.735272,node,4373247489,OpenStreetMap
+بنك ابوظبي الوطني,bank,24.352955,56.7310524,node,4373195518,OpenStreetMap
+aventus Café,cafe,24.4024436,56.7101785,node,5486137922,OpenStreetMap
+BNR Coffee,cafe,24.3651799,56.7487975,node,13306435701,OpenStreetMap
+Erteshaf,cafe,24.3536637,56.72663,node,13427359429,OpenStreetMap
+Karak Tea,cafe,24.4219951,56.6096135,node,9916333117,OpenStreetMap
+Robusta Café,cafe,24.3662833,56.7478873,node,13306435801,OpenStreetMap
+Steel,cafe,24.3645646,56.7491946,node,13306429601,OpenStreetMap
+zods coffee  مقهى زودس,cafe,24.4046771,56.7077554,node,8849291221,OpenStreetMap
+Zods Coffee مقهى زودس,cafe,24.4046629,56.7077521,node,8864345566,OpenStreetMap
+لمة حارتتا,cafe,24.2930808,56.7820862,node,8849781579,OpenStreetMap
+مانير,cafe,24.3840343,56.7002079,node,3731644661,OpenStreetMap
+مقهى على كيفك,cafe,24.3257222,56.671011,node,6208100185,OpenStreetMap
+العيادة البيطرية صحار,clinic,24.3416587,56.7245621,node,8813862318,OpenStreetMap
+ردتاغ,clothes,24.3366984,56.7353509,node,12287941170,OpenStreetMap
+ردتاغ,clothes,24.3894578,56.6941791,node,12287941175,OpenStreetMap
+,convenience,24.3405047,56.7346404,node,9391036223,OpenStreetMap
+,convenience,24.3875593,56.6949193,node,9927832517,OpenStreetMap
+,convenience,24.4051994,56.7164667,way,117866147,OpenStreetMap
+alain,convenience,24.3380927,56.7360649,node,1267436942,OpenStreetMap
+Shell Select,convenience,24.3935515,56.6828958,way,1036204213,OpenStreetMap
+أورلوف,convenience,24.3454167,56.7386169,node,4946222025,OpenStreetMap
+الشعاع الذهبي,convenience,24.3498979,56.7364392,node,4339520089,OpenStreetMap
+بقالة السهم الذهبي الملكي ش ش و,convenience,24.2663378,56.807421,node,9620151334,OpenStreetMap
+سورنا,convenience,24.3461346,56.7308494,node,4946222323,OpenStreetMap
+World Superior Guide partners,electronics,24.3486999,56.7353346,node,5350830023,OpenStreetMap
+الربيع المميز بيع كاميرا المراقبة وأنظمة التحكم بالدخول,electronics,24.3523714,56.7337101,node,9598828209,OpenStreetMap
+DQ,fast_food,24.3403323,56.7314644,node,1020157604,OpenStreetMap
+Hungry Bunny,fast_food,24.4144246,56.6000136,node,3781730987,OpenStreetMap
+Papa John's,fast_food,24.3402271,56.7316217,node,1020157556,OpenStreetMap
+Pizza Hut,fast_food,24.4478954,56.6078692,node,1444614623,OpenStreetMap
+Quiznos,fast_food,24.3402821,56.7315477,node,1020157302,OpenStreetMap
+دجاج كنتاكي,fast_food,24.3381667,56.736278,node,1022570496,OpenStreetMap
+دومينوز بيتزا,fast_food,24.327448,56.7447223,node,3731672013,OpenStreetMap
+ماكدونالدز,fast_food,24.3844898,56.7000659,node,3731649941,OpenStreetMap
+Flower Bridge,florist,24.3202745,56.7550133,node,9680374507,OpenStreetMap
+صالون عبير,hairdresser,24.4261195,56.6687645,node,4360946295,OpenStreetMap
+Al Raffah,hospital,24.3507498,56.7336249,node,1022587366,OpenStreetMap
+Fakhriya polyphonic,hospital,24.320176,56.7546911,way,1053375991,OpenStreetMap
+Lifeline Hospital,hospital,24.4241002,56.6130558,way,987319156,OpenStreetMap
+الرفاعة,hospital,24.3377983,56.7345046,node,1020157392,OpenStreetMap
+مركز الطريف الصحي,hospital,24.3621375,56.7140595,node,4308288889,OpenStreetMap
+مركز العوينات الصحي,hospital,24.2653504,56.8067133,way,1046083772,OpenStreetMap
+مركز صحار الصحي,hospital,24.3457067,56.7340983,way,224456857,OpenStreetMap
+مستشفى بدر السماء,hospital,24.3436971,56.7291164,way,1042570215,OpenStreetMap
+مستشفى صحار,hospital,24.327567,56.6772651,node,4399051090,OpenStreetMap
+مستشفى صحار,hospital,24.3259162,56.6781357,way,224457111,OpenStreetMap
+AL Jazeera International shopping,mall,24.3499291,56.7361981,way,1042832311,OpenStreetMap
+City Centre Suhar,mall,24.389067,56.6946181,way,1237788148,OpenStreetMap
+extra,mall,24.3631059,56.7068963,way,1017618288,OpenStreetMap
+Nesto Hypermarket,mall,24.4171379,56.6292609,way,956295026,OpenStreetMap
+SAIHOOTH HYPERMARKET,mall,24.3475451,56.7379158,way,1042832298,OpenStreetMap
+السوق الصيني صحار,mall,24.3483909,56.7175098,way,940857843,OpenStreetMap
+الواحه مول صحار,mall,24.3283593,56.7237867,node,8850050168,OpenStreetMap
+مجمع الصواري,mall,24.3843118,56.6999447,node,3731402818,OpenStreetMap
+مركز المعارض,mall,24.3243531,56.690953,way,224458036,OpenStreetMap
+Ahmed Al Maghribi,perfumery,24.328787,56.723254,node,10199088802,OpenStreetMap
+Ahmed Al Maghribi,perfumery,24.389482,56.694565,node,10199088803,OpenStreetMap
+Ahmed Al Maghribi,perfumery,24.3621316,56.7115331,node,10199088810,OpenStreetMap
+Ahmed Al Maghribi,perfumery,24.3476098,56.7376365,node,12165415501,OpenStreetMap
+,pharmacy,24.3692034,56.745113,node,6207233485,OpenStreetMap
+Al Rakha,pharmacy,24.371414,56.7435318,node,13306435702,OpenStreetMap
+Al Shifa Modern Pharmacy,pharmacy,24.424557,56.6096675,node,4307306502,OpenStreetMap
+صيدلية مجان,pharmacy,24.3951495,56.6817636,node,9546750578,OpenStreetMap
+,restaurant,24.3975385,56.6720814,node,6268063927,OpenStreetMap
+,restaurant,24.3665857,56.7477623,node,6285507785,OpenStreetMap
+,restaurant,24.4214057,56.620022,node,11669118697,OpenStreetMap
+,restaurant,24.3667019,56.747304,way,750728834,OpenStreetMap
+Al Sarayan,restaurant,24.3400913,56.7318094,node,1267436948,OpenStreetMap
+Alkhater Restaurant,restaurant,24.338257,56.734184,node,4332534992,OpenStreetMap
+ChicKing Fried Chicken,restaurant,24.320394,56.748896,node,4332523993,OpenStreetMap
+Food Land Restaurant,restaurant,24.354774,56.725716,node,4332558089,OpenStreetMap
+Mashaer7,restaurant,24.3650287,56.7488906,node,13306435601,OpenStreetMap
+Milan Vegetarian Restaurant,restaurant,24.347254,56.737045,node,4332555989,OpenStreetMap
+North Madras Restaurant,restaurant,24.4324161,56.6077502,node,12630140652,OpenStreetMap
+Pizza Hut,restaurant,24.3379281,56.7364996,node,1022570506,OpenStreetMap
+restaurant Sadaf Iranian,restaurant,24.3533824,56.7299215,node,5170786922,OpenStreetMap
+Riyadh Restaurant,restaurant,24.3468355,56.7367189,node,3212210015,OpenStreetMap
+SOUTHERN SPICE RESTAURANT,restaurant,24.4332211,56.606373,node,12630162705,OpenStreetMap
+Sunshine,restaurant,24.3488762,56.7307857,node,1326794410,OpenStreetMap
+Tamil Nadu Restaurant,restaurant,24.4221603,56.6073242,node,12630144668,OpenStreetMap
+Taste of Maharajas Veg Restaurant,restaurant,24.4317208,56.60794,node,12630122400,OpenStreetMap
+The Dhow Marina Restaurant,restaurant,24.3774366,56.7399816,node,3212210016,OpenStreetMap
+Trust Restaurant & Coffee Shop,restaurant,24.356387,56.7390599,node,13180494409,OpenStreetMap
+Turkish Restaurant,restaurant,24.3799057,56.7364697,node,13306406401,OpenStreetMap
+Zaeem Foods Restaurant,restaurant,24.422187,56.61004,node,4332557389,OpenStreetMap
+مشكاك الجوكر,restaurant,24.400465,56.7229339,way,1237643746,OpenStreetMap
+مطعم البيت اليمني,restaurant,24.3299402,56.7255766,node,12025683269,OpenStreetMap
+مطعم الصدف الايراني,restaurant,24.353564,56.729985,node,4332524195,OpenStreetMap
+مطعم بيت الهندي,restaurant,24.3817551,56.7026883,node,6699017485,OpenStreetMap
+مطعم بيت صحار,restaurant,24.3426103,56.7446335,node,9596950967,OpenStreetMap
+مطعم ڤيتوس,restaurant,24.3371463,56.7278969,node,11392674674,OpenStreetMap
+مطعم ومقهى حمامة السلام,restaurant,24.2683994,56.8012503,node,9620151423,OpenStreetMap
+,school,24.3969962,56.6964537,node,6206442844,OpenStreetMap
+,school,24.4128572,56.708733,way,663004603,OpenStreetMap
+Al Batinah International School- ABIS,school,24.321281,56.6719769,node,4406708690,OpenStreetMap
+pakistan school sohar,school,24.2776707,56.6922941,node,4697355691,OpenStreetMap
+Pakistan school Sohar,school,24.2773243,56.6925705,way,803687384,OpenStreetMap
+Sohar international high school,school,24.3732935,56.7077334,node,4512979391,OpenStreetMap
+Sohar International School,school,24.2633688,56.8011574,node,4399044089,OpenStreetMap
+Sohar international school new campus,school,24.3201011,56.6697865,node,6003065086,OpenStreetMap
+المدرسة الهندية,school,24.3399806,56.7463572,node,1923573188,OpenStreetMap
+مدرسة أم سلمه الثانويه,school,24.3397658,56.7437297,way,1042579474,OpenStreetMap
+مدرسة الرساله للتعليم الأساسي,school,24.2691219,56.8029346,way,1046083762,OpenStreetMap
+مدرسة الزهور,school,24.2817418,56.7906124,way,1046083770,OpenStreetMap
+مدرسة الشفاء للتعليم الأساسي بنات,school,24.4497456,56.6633675,way,983116504,OpenStreetMap
+مدرسة بلقيس للتعليم الأساسي,school,24.3064977,56.7759667,way,1042929301,OpenStreetMap
+مدرسة مسعود بن رمضان,school,24.36514,56.7170058,node,4308297789,OpenStreetMap
+مدرسة واحة المعرفة الخاصه,school,24.3236044,56.6986416,node,9546674285,OpenStreetMap
+,supermarket,24.4077159,56.7045193,node,3212210013,OpenStreetMap
+,supermarket,24.4369739,56.6457128,node,3212210014,OpenStreetMap
+,supermarket,24.3492444,56.6873553,node,9922494719,OpenStreetMap
+AL EWAN Hypermarket,supermarket,24.4354748,56.6083328,node,8852067989,OpenStreetMap
+Al jezeera super market,supermarket,24.3595477,56.7218027,node,4373246991,OpenStreetMap
+Al Kamashki,supermarket,24.3679799,56.745982,node,6207233486,OpenStreetMap
+Al meera,supermarket,24.4191695,56.604514,way,374793527,OpenStreetMap
+Carrefour Market,supermarket,24.38968,56.6964391,node,6053283690,OpenStreetMap
+China Down Town,supermarket,24.4430452,56.6100373,node,8852185268,OpenStreetMap
+Fine fair,supermarket,24.3368632,56.7352252,node,849418049,OpenStreetMap
+Grand Hypermarket,supermarket,24.3601092,56.7456798,way,750728794,OpenStreetMap
+Hypermarket,supermarket,24.3483345,56.737483,node,3212210627,OpenStreetMap
+Lemon Hypermarket,supermarket,24.3594848,56.7449506,node,6601168485,OpenStreetMap
+Medina Alwafa,supermarket,24.4692379,56.6010097,node,6205636186,OpenStreetMap
+Nesto,supermarket,24.3387541,56.7333585,node,1042872533,OpenStreetMap
+Palm gardens,supermarket,24.3360746,56.7354441,node,9386448794,OpenStreetMap
+Redtag,supermarket,24.3366098,56.7354838,node,9386448793,OpenStreetMap
+Shabab Al khaleej Hypermarket,supermarket,24.4203221,56.6692662,way,982893496,OpenStreetMap
+الفلج هايبرماركت,supermarket,24.419816,56.6183424,way,988326541,OpenStreetMap
+الميرة هايبر ماركت,supermarket,24.3835264,56.7002928,node,3731413854,OpenStreetMap
+سفير مول,supermarket,24.3619797,56.7114747,way,117866144,OpenStreetMap
+سوق صحار الجديد,supermarket,24.3399988,56.7318999,node,1267436937,OpenStreetMap
+كارفور,supermarket,24.3618944,56.7110952,node,4308297389,OpenStreetMap
+مركز اللولو,supermarket,24.3402173,56.7306617,node,849418065,OpenStreetMap
+مركز يابلاش للتسوق,supermarket,24.383344,56.7009133,node,7902832687,OpenStreetMap

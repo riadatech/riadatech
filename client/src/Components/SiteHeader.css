@@ -1,0 +1,186 @@
+.rt-shell-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1100 !important;
+  width: 100% !important;
+  min-height: 50px !important;
+  padding: 0 24px !important;
+  border-bottom: 1px solid var(--border-color) !important;
+  background: var(--nav-bg) !important;
+  color: var(--text-color) !important;
+  backdrop-filter: blur(20px) !important;
+  -webkit-backdrop-filter: blur(20px) !important;
+  box-shadow: none !important;
+}
+
+:root[data-theme="dark"] .rt-shell-header,
+:root.theme-dark .rt-shell-header,
+.dark .rt-shell-header,
+.theme-dark .rt-shell-header {
+  background: var(--nav-bg) !important;
+  border-bottom-color: var(--border-color) !important;
+  color: var(--text-color) !important;
+}
+
+.rt-shell-header-inner,
+.rt-shell-brand,
+.rt-shell-nav,
+.rt-shell-actions {
+  display: flex;
+  align-items: center;
+}
+
+.rt-shell-header-inner {
+  width: min(100%, 1200px) !important;
+  min-height: 50px !important;
+  margin: 0 auto !important;
+  gap: 24px !important;
+}
+
+.rt-shell-brand {
+  flex-shrink: 0;
+  color: inherit;
+}
+
+.rt-shell-logo {
+  font-size: 24px;
+}
+
+.rt-shell-nav {
+  flex: 1 !important;
+  justify-content: center !important;
+  gap: 22px !important;
+}
+
+.rt-shell-actions {
+  flex-shrink: 0 !important;
+  gap: 10px !important;
+}
+
+.rt-shell-header[data-locale="ar"] .rt-shell-nav-link,
+.rt-shell-header[data-locale="ar"] .rt-shell-theme-toggle,
+.rt-shell-header[data-locale="ar"] .rt-shell-language-toggle,
+.rt-shell-header[data-locale="ar"] .rt-shell-cta {
+  font-family: "IBM Plex Sans Arabic", "Tajawal", system-ui, sans-serif;
+}
+
+.rt-shell-header[data-locale="en"] .rt-shell-nav-link,
+.rt-shell-header[data-locale="en"] .rt-shell-theme-toggle,
+.rt-shell-header[data-locale="en"] .rt-shell-language-toggle,
+.rt-shell-header[data-locale="en"] .rt-shell-cta {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", system-ui, sans-serif;
+}
+
+.rt-shell-nav-link {
+  color: color-mix(in srgb, var(--text-color) 72%, transparent);
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.rt-shell-nav-link:hover,
+.rt-shell-nav-link.active {
+  color: var(--text-color);
+}
+
+.rt-shell-theme-toggle,
+.rt-shell-language-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--rt-border);
+  background: color-mix(in srgb, var(--rt-surface-solid) 88%, transparent);
+  color: var(--text-color);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.rt-shell-language-toggle {
+  cursor: pointer;
+}
+
+.rt-shell-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  padding: 0 18px;
+  border-radius: 999px;
+  background: var(--rt-accent);
+  color: var(--rt-button-text);
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.rt-shell-menu-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid var(--rt-border);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--rt-surface-solid) 88%, transparent);
+  color: var(--text-color);
+}
+
+@media (max-width: 960px) {
+  .rt-shell-header {
+    padding-inline: 16px;
+  }
+
+  .rt-shell-header-inner {
+    gap: 14px;
+    flex-wrap: wrap;
+    padding-block: 8px;
+  }
+
+  .rt-shell-menu-toggle {
+    display: inline-flex;
+  }
+
+  .rt-shell-nav,
+  .rt-shell-actions {
+    display: none;
+    width: 100%;
+    background: color-mix(in srgb, var(--rt-surface) 96%, transparent);
+    border: 1px solid var(--rt-border);
+    border-radius: 20px;
+    padding: 14px;
+  }
+
+  .rt-shell-nav.is-open,
+  .rt-shell-actions.is-open {
+    display: flex;
+  }
+
+  .rt-shell-nav {
+    order: 4;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    justify-content: flex-start;
+  }
+
+  .rt-shell-actions {
+    order: 5;
+    justify-content: stretch;
+    flex-wrap: wrap;
+  }
+
+  .rt-shell-actions > * {
+    flex: 1 1 140px;
+  }
+
+  .rt-shell-cta,
+  .rt-shell-language-toggle,
+  .rt-shell-theme-toggle {
+    width: 100%;
+  }
+}

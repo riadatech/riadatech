@@ -1,0 +1,65 @@
+.rt-intro-splash {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(circle at center, rgba(255, 255, 255, 0.22), transparent 35%),
+    linear-gradient(135deg, #071827 0%, #0EA5A8 45%, #55DDE0 100%);
+  transform-origin: center;
+  will-change: transform, opacity;
+}
+
+.rt-intro-splash.is-entering .rt-intro-splash-logo {
+  animation: rt-intro-logo-in 700ms ease forwards;
+}
+
+.rt-intro-splash.is-exiting {
+  animation: rt-intro-overlay-out 1100ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.rt-intro-splash-logo {
+  font-size: clamp(64px, 9vw, 120px);
+  font-weight: 400;
+  line-height: 1;
+  will-change: transform, opacity;
+}
+
+.rt-intro-splash-logo.rt-logo-mark.is-ar {
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+.rt-intro-splash-logo .rt-logo-mark-primary {
+  color: #ffffff;
+}
+
+.rt-intro-splash-logo .rt-logo-mark-accent {
+  color: #55DDE0;
+}
+
+@keyframes rt-intro-logo-in {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes rt-intro-overlay-out {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  to {
+    opacity: 0;
+    transform: scale(25);
+  }
+}

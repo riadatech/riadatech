@@ -1,0 +1,1280 @@
+[
+  {
+    "name": "مخبز تنور إيراني",
+    "category": "bakery",
+    "latitude": 24.3246139,
+    "longitude": 56.7578073,
+    "osm_type": "node",
+    "osm_id": 8014353614,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Bank Muscat",
+    "category": "bank",
+    "latitude": 24.3507986,
+    "longitude": 56.7317248,
+    "osm_type": "node",
+    "osm_id": 4373246992,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Bank Muscat",
+    "category": "bank",
+    "latitude": 24.3676706,
+    "longitude": 56.7463525,
+    "osm_type": "node",
+    "osm_id": 13306429602,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Bank Muscat - Sohar Branch",
+    "category": "bank",
+    "latitude": 24.35095,
+    "longitude": 56.7318,
+    "osm_type": "node",
+    "osm_id": 6598402990,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Bank Sohar",
+    "category": "bank",
+    "latitude": 24.351335,
+    "longitude": 56.7314805,
+    "osm_type": "node",
+    "osm_id": 4373194899,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Muzn Bank",
+    "category": "bank",
+    "latitude": 24.3517084,
+    "longitude": 56.7319355,
+    "osm_type": "node",
+    "osm_id": 4373201799,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Sohar International Bank - Sohar Branch",
+    "category": "bank",
+    "latitude": 24.3513196,
+    "longitude": 56.7315449,
+    "osm_type": "node",
+    "osm_id": 6598466585,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "البنك الوطني العماني",
+    "category": "bank",
+    "latitude": 24.3373351,
+    "longitude": 56.7347447,
+    "osm_type": "node",
+    "osm_id": 3731672520,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "بنك HSBC",
+    "category": "bank",
+    "latitude": 24.3521034,
+    "longitude": 56.735272,
+    "osm_type": "node",
+    "osm_id": 4373247489,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "بنك ابوظبي الوطني",
+    "category": "bank",
+    "latitude": 24.352955,
+    "longitude": 56.7310524,
+    "osm_type": "node",
+    "osm_id": 4373195518,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "aventus Café",
+    "category": "cafe",
+    "latitude": 24.4024436,
+    "longitude": 56.7101785,
+    "osm_type": "node",
+    "osm_id": 5486137922,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "BNR Coffee",
+    "category": "cafe",
+    "latitude": 24.3651799,
+    "longitude": 56.7487975,
+    "osm_type": "node",
+    "osm_id": 13306435701,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Erteshaf",
+    "category": "cafe",
+    "latitude": 24.3536637,
+    "longitude": 56.72663,
+    "osm_type": "node",
+    "osm_id": 13427359429,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Karak Tea",
+    "category": "cafe",
+    "latitude": 24.4219951,
+    "longitude": 56.6096135,
+    "osm_type": "node",
+    "osm_id": 9916333117,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Robusta Café",
+    "category": "cafe",
+    "latitude": 24.3662833,
+    "longitude": 56.7478873,
+    "osm_type": "node",
+    "osm_id": 13306435801,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Steel",
+    "category": "cafe",
+    "latitude": 24.3645646,
+    "longitude": 56.7491946,
+    "osm_type": "node",
+    "osm_id": 13306429601,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "zods coffee  مقهى زودس",
+    "category": "cafe",
+    "latitude": 24.4046771,
+    "longitude": 56.7077554,
+    "osm_type": "node",
+    "osm_id": 8849291221,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Zods Coffee مقهى زودس",
+    "category": "cafe",
+    "latitude": 24.4046629,
+    "longitude": 56.7077521,
+    "osm_type": "node",
+    "osm_id": 8864345566,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "لمة حارتتا",
+    "category": "cafe",
+    "latitude": 24.2930808,
+    "longitude": 56.7820862,
+    "osm_type": "node",
+    "osm_id": 8849781579,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مانير",
+    "category": "cafe",
+    "latitude": 24.3840343,
+    "longitude": 56.7002079,
+    "osm_type": "node",
+    "osm_id": 3731644661,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مقهى على كيفك",
+    "category": "cafe",
+    "latitude": 24.3257222,
+    "longitude": 56.671011,
+    "osm_type": "node",
+    "osm_id": 6208100185,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "العيادة البيطرية صحار",
+    "category": "clinic",
+    "latitude": 24.3416587,
+    "longitude": 56.7245621,
+    "osm_type": "node",
+    "osm_id": 8813862318,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "ردتاغ",
+    "category": "clothes",
+    "latitude": 24.3366984,
+    "longitude": 56.7353509,
+    "osm_type": "node",
+    "osm_id": 12287941170,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "ردتاغ",
+    "category": "clothes",
+    "latitude": 24.3894578,
+    "longitude": 56.6941791,
+    "osm_type": "node",
+    "osm_id": 12287941175,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "convenience",
+    "latitude": 24.3405047,
+    "longitude": 56.7346404,
+    "osm_type": "node",
+    "osm_id": 9391036223,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "convenience",
+    "latitude": 24.3875593,
+    "longitude": 56.6949193,
+    "osm_type": "node",
+    "osm_id": 9927832517,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "convenience",
+    "latitude": 24.4051994,
+    "longitude": 56.7164667,
+    "osm_type": "way",
+    "osm_id": 117866147,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "alain",
+    "category": "convenience",
+    "latitude": 24.3380927,
+    "longitude": 56.7360649,
+    "osm_type": "node",
+    "osm_id": 1267436942,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Shell Select",
+    "category": "convenience",
+    "latitude": 24.3935515,
+    "longitude": 56.6828958,
+    "osm_type": "way",
+    "osm_id": 1036204213,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "أورلوف",
+    "category": "convenience",
+    "latitude": 24.3454167,
+    "longitude": 56.7386169,
+    "osm_type": "node",
+    "osm_id": 4946222025,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الشعاع الذهبي",
+    "category": "convenience",
+    "latitude": 24.3498979,
+    "longitude": 56.7364392,
+    "osm_type": "node",
+    "osm_id": 4339520089,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "بقالة السهم الذهبي الملكي ش ش و",
+    "category": "convenience",
+    "latitude": 24.2663378,
+    "longitude": 56.807421,
+    "osm_type": "node",
+    "osm_id": 9620151334,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "سورنا",
+    "category": "convenience",
+    "latitude": 24.3461346,
+    "longitude": 56.7308494,
+    "osm_type": "node",
+    "osm_id": 4946222323,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "World Superior Guide partners",
+    "category": "electronics",
+    "latitude": 24.3486999,
+    "longitude": 56.7353346,
+    "osm_type": "node",
+    "osm_id": 5350830023,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الربيع المميز بيع كاميرا المراقبة وأنظمة التحكم بالدخول",
+    "category": "electronics",
+    "latitude": 24.3523714,
+    "longitude": 56.7337101,
+    "osm_type": "node",
+    "osm_id": 9598828209,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "DQ",
+    "category": "fast_food",
+    "latitude": 24.3403323,
+    "longitude": 56.7314644,
+    "osm_type": "node",
+    "osm_id": 1020157604,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Hungry Bunny",
+    "category": "fast_food",
+    "latitude": 24.4144246,
+    "longitude": 56.6000136,
+    "osm_type": "node",
+    "osm_id": 3781730987,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Papa John's",
+    "category": "fast_food",
+    "latitude": 24.3402271,
+    "longitude": 56.7316217,
+    "osm_type": "node",
+    "osm_id": 1020157556,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Pizza Hut",
+    "category": "fast_food",
+    "latitude": 24.4478954,
+    "longitude": 56.6078692,
+    "osm_type": "node",
+    "osm_id": 1444614623,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Quiznos",
+    "category": "fast_food",
+    "latitude": 24.3402821,
+    "longitude": 56.7315477,
+    "osm_type": "node",
+    "osm_id": 1020157302,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "دجاج كنتاكي",
+    "category": "fast_food",
+    "latitude": 24.3381667,
+    "longitude": 56.736278,
+    "osm_type": "node",
+    "osm_id": 1022570496,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "دومينوز بيتزا",
+    "category": "fast_food",
+    "latitude": 24.327448,
+    "longitude": 56.7447223,
+    "osm_type": "node",
+    "osm_id": 3731672013,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "ماكدونالدز",
+    "category": "fast_food",
+    "latitude": 24.3844898,
+    "longitude": 56.7000659,
+    "osm_type": "node",
+    "osm_id": 3731649941,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Flower Bridge",
+    "category": "florist",
+    "latitude": 24.3202745,
+    "longitude": 56.7550133,
+    "osm_type": "node",
+    "osm_id": 9680374507,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "صالون عبير",
+    "category": "hairdresser",
+    "latitude": 24.4261195,
+    "longitude": 56.6687645,
+    "osm_type": "node",
+    "osm_id": 4360946295,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Raffah",
+    "category": "hospital",
+    "latitude": 24.3507498,
+    "longitude": 56.7336249,
+    "osm_type": "node",
+    "osm_id": 1022587366,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Fakhriya polyphonic",
+    "category": "hospital",
+    "latitude": 24.320176,
+    "longitude": 56.7546911,
+    "osm_type": "way",
+    "osm_id": 1053375991,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Lifeline Hospital",
+    "category": "hospital",
+    "latitude": 24.4241002,
+    "longitude": 56.6130558,
+    "osm_type": "way",
+    "osm_id": 987319156,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الرفاعة",
+    "category": "hospital",
+    "latitude": 24.3377983,
+    "longitude": 56.7345046,
+    "osm_type": "node",
+    "osm_id": 1020157392,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز الطريف الصحي",
+    "category": "hospital",
+    "latitude": 24.3621375,
+    "longitude": 56.7140595,
+    "osm_type": "node",
+    "osm_id": 4308288889,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز العوينات الصحي",
+    "category": "hospital",
+    "latitude": 24.2653504,
+    "longitude": 56.8067133,
+    "osm_type": "way",
+    "osm_id": 1046083772,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز صحار الصحي",
+    "category": "hospital",
+    "latitude": 24.3457067,
+    "longitude": 56.7340983,
+    "osm_type": "way",
+    "osm_id": 224456857,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مستشفى بدر السماء",
+    "category": "hospital",
+    "latitude": 24.3436971,
+    "longitude": 56.7291164,
+    "osm_type": "way",
+    "osm_id": 1042570215,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مستشفى صحار",
+    "category": "hospital",
+    "latitude": 24.327567,
+    "longitude": 56.6772651,
+    "osm_type": "node",
+    "osm_id": 4399051090,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مستشفى صحار",
+    "category": "hospital",
+    "latitude": 24.3259162,
+    "longitude": 56.6781357,
+    "osm_type": "way",
+    "osm_id": 224457111,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "AL Jazeera International shopping",
+    "category": "mall",
+    "latitude": 24.3499291,
+    "longitude": 56.7361981,
+    "osm_type": "way",
+    "osm_id": 1042832311,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "City Centre Suhar",
+    "category": "mall",
+    "latitude": 24.389067,
+    "longitude": 56.6946181,
+    "osm_type": "way",
+    "osm_id": 1237788148,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "extra",
+    "category": "mall",
+    "latitude": 24.3631059,
+    "longitude": 56.7068963,
+    "osm_type": "way",
+    "osm_id": 1017618288,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Nesto Hypermarket",
+    "category": "mall",
+    "latitude": 24.4171379,
+    "longitude": 56.6292609,
+    "osm_type": "way",
+    "osm_id": 956295026,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "SAIHOOTH HYPERMARKET",
+    "category": "mall",
+    "latitude": 24.3475451,
+    "longitude": 56.7379158,
+    "osm_type": "way",
+    "osm_id": 1042832298,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "السوق الصيني صحار",
+    "category": "mall",
+    "latitude": 24.3483909,
+    "longitude": 56.7175098,
+    "osm_type": "way",
+    "osm_id": 940857843,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الواحه مول صحار",
+    "category": "mall",
+    "latitude": 24.3283593,
+    "longitude": 56.7237867,
+    "osm_type": "node",
+    "osm_id": 8850050168,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مجمع الصواري",
+    "category": "mall",
+    "latitude": 24.3843118,
+    "longitude": 56.6999447,
+    "osm_type": "node",
+    "osm_id": 3731402818,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز المعارض",
+    "category": "mall",
+    "latitude": 24.3243531,
+    "longitude": 56.690953,
+    "osm_type": "way",
+    "osm_id": 224458036,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Ahmed Al Maghribi",
+    "category": "perfumery",
+    "latitude": 24.328787,
+    "longitude": 56.723254,
+    "osm_type": "node",
+    "osm_id": 10199088802,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Ahmed Al Maghribi",
+    "category": "perfumery",
+    "latitude": 24.389482,
+    "longitude": 56.694565,
+    "osm_type": "node",
+    "osm_id": 10199088803,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Ahmed Al Maghribi",
+    "category": "perfumery",
+    "latitude": 24.3621316,
+    "longitude": 56.7115331,
+    "osm_type": "node",
+    "osm_id": 10199088810,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Ahmed Al Maghribi",
+    "category": "perfumery",
+    "latitude": 24.3476098,
+    "longitude": 56.7376365,
+    "osm_type": "node",
+    "osm_id": 12165415501,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "pharmacy",
+    "latitude": 24.3692034,
+    "longitude": 56.745113,
+    "osm_type": "node",
+    "osm_id": 6207233485,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Rakha",
+    "category": "pharmacy",
+    "latitude": 24.371414,
+    "longitude": 56.7435318,
+    "osm_type": "node",
+    "osm_id": 13306435702,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Shifa Modern Pharmacy",
+    "category": "pharmacy",
+    "latitude": 24.424557,
+    "longitude": 56.6096675,
+    "osm_type": "node",
+    "osm_id": 4307306502,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "صيدلية مجان",
+    "category": "pharmacy",
+    "latitude": 24.3951495,
+    "longitude": 56.6817636,
+    "osm_type": "node",
+    "osm_id": 9546750578,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "restaurant",
+    "latitude": 24.3975385,
+    "longitude": 56.6720814,
+    "osm_type": "node",
+    "osm_id": 6268063927,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "restaurant",
+    "latitude": 24.3665857,
+    "longitude": 56.7477623,
+    "osm_type": "node",
+    "osm_id": 6285507785,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "restaurant",
+    "latitude": 24.4214057,
+    "longitude": 56.620022,
+    "osm_type": "node",
+    "osm_id": 11669118697,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "restaurant",
+    "latitude": 24.3667019,
+    "longitude": 56.747304,
+    "osm_type": "way",
+    "osm_id": 750728834,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Sarayan",
+    "category": "restaurant",
+    "latitude": 24.3400913,
+    "longitude": 56.7318094,
+    "osm_type": "node",
+    "osm_id": 1267436948,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Alkhater Restaurant",
+    "category": "restaurant",
+    "latitude": 24.338257,
+    "longitude": 56.734184,
+    "osm_type": "node",
+    "osm_id": 4332534992,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "ChicKing Fried Chicken",
+    "category": "restaurant",
+    "latitude": 24.320394,
+    "longitude": 56.748896,
+    "osm_type": "node",
+    "osm_id": 4332523993,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Food Land Restaurant",
+    "category": "restaurant",
+    "latitude": 24.354774,
+    "longitude": 56.725716,
+    "osm_type": "node",
+    "osm_id": 4332558089,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Mashaer7",
+    "category": "restaurant",
+    "latitude": 24.3650287,
+    "longitude": 56.7488906,
+    "osm_type": "node",
+    "osm_id": 13306435601,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Milan Vegetarian Restaurant",
+    "category": "restaurant",
+    "latitude": 24.347254,
+    "longitude": 56.737045,
+    "osm_type": "node",
+    "osm_id": 4332555989,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "North Madras Restaurant",
+    "category": "restaurant",
+    "latitude": 24.4324161,
+    "longitude": 56.6077502,
+    "osm_type": "node",
+    "osm_id": 12630140652,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Pizza Hut",
+    "category": "restaurant",
+    "latitude": 24.3379281,
+    "longitude": 56.7364996,
+    "osm_type": "node",
+    "osm_id": 1022570506,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "restaurant Sadaf Iranian",
+    "category": "restaurant",
+    "latitude": 24.3533824,
+    "longitude": 56.7299215,
+    "osm_type": "node",
+    "osm_id": 5170786922,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Riyadh Restaurant",
+    "category": "restaurant",
+    "latitude": 24.3468355,
+    "longitude": 56.7367189,
+    "osm_type": "node",
+    "osm_id": 3212210015,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "SOUTHERN SPICE RESTAURANT",
+    "category": "restaurant",
+    "latitude": 24.4332211,
+    "longitude": 56.606373,
+    "osm_type": "node",
+    "osm_id": 12630162705,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Sunshine",
+    "category": "restaurant",
+    "latitude": 24.3488762,
+    "longitude": 56.7307857,
+    "osm_type": "node",
+    "osm_id": 1326794410,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Tamil Nadu Restaurant",
+    "category": "restaurant",
+    "latitude": 24.4221603,
+    "longitude": 56.6073242,
+    "osm_type": "node",
+    "osm_id": 12630144668,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Taste of Maharajas Veg Restaurant",
+    "category": "restaurant",
+    "latitude": 24.4317208,
+    "longitude": 56.60794,
+    "osm_type": "node",
+    "osm_id": 12630122400,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "The Dhow Marina Restaurant",
+    "category": "restaurant",
+    "latitude": 24.3774366,
+    "longitude": 56.7399816,
+    "osm_type": "node",
+    "osm_id": 3212210016,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Trust Restaurant & Coffee Shop",
+    "category": "restaurant",
+    "latitude": 24.356387,
+    "longitude": 56.7390599,
+    "osm_type": "node",
+    "osm_id": 13180494409,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Turkish Restaurant",
+    "category": "restaurant",
+    "latitude": 24.3799057,
+    "longitude": 56.7364697,
+    "osm_type": "node",
+    "osm_id": 13306406401,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Zaeem Foods Restaurant",
+    "category": "restaurant",
+    "latitude": 24.422187,
+    "longitude": 56.61004,
+    "osm_type": "node",
+    "osm_id": 4332557389,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مشكاك الجوكر",
+    "category": "restaurant",
+    "latitude": 24.400465,
+    "longitude": 56.7229339,
+    "osm_type": "way",
+    "osm_id": 1237643746,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم البيت اليمني",
+    "category": "restaurant",
+    "latitude": 24.3299402,
+    "longitude": 56.7255766,
+    "osm_type": "node",
+    "osm_id": 12025683269,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم الصدف الايراني",
+    "category": "restaurant",
+    "latitude": 24.353564,
+    "longitude": 56.729985,
+    "osm_type": "node",
+    "osm_id": 4332524195,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم بيت الهندي",
+    "category": "restaurant",
+    "latitude": 24.3817551,
+    "longitude": 56.7026883,
+    "osm_type": "node",
+    "osm_id": 6699017485,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم بيت صحار",
+    "category": "restaurant",
+    "latitude": 24.3426103,
+    "longitude": 56.7446335,
+    "osm_type": "node",
+    "osm_id": 9596950967,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم ڤيتوس",
+    "category": "restaurant",
+    "latitude": 24.3371463,
+    "longitude": 56.7278969,
+    "osm_type": "node",
+    "osm_id": 11392674674,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مطعم ومقهى حمامة السلام",
+    "category": "restaurant",
+    "latitude": 24.2683994,
+    "longitude": 56.8012503,
+    "osm_type": "node",
+    "osm_id": 9620151423,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "school",
+    "latitude": 24.3969962,
+    "longitude": 56.6964537,
+    "osm_type": "node",
+    "osm_id": 6206442844,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "school",
+    "latitude": 24.4128572,
+    "longitude": 56.708733,
+    "osm_type": "way",
+    "osm_id": 663004603,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Batinah International School- ABIS",
+    "category": "school",
+    "latitude": 24.321281,
+    "longitude": 56.6719769,
+    "osm_type": "node",
+    "osm_id": 4406708690,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "pakistan school sohar",
+    "category": "school",
+    "latitude": 24.2776707,
+    "longitude": 56.6922941,
+    "osm_type": "node",
+    "osm_id": 4697355691,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Pakistan school Sohar",
+    "category": "school",
+    "latitude": 24.2773243,
+    "longitude": 56.6925705,
+    "osm_type": "way",
+    "osm_id": 803687384,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Sohar international high school",
+    "category": "school",
+    "latitude": 24.3732935,
+    "longitude": 56.7077334,
+    "osm_type": "node",
+    "osm_id": 4512979391,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Sohar International School",
+    "category": "school",
+    "latitude": 24.2633688,
+    "longitude": 56.8011574,
+    "osm_type": "node",
+    "osm_id": 4399044089,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Sohar international school new campus",
+    "category": "school",
+    "latitude": 24.3201011,
+    "longitude": 56.6697865,
+    "osm_type": "node",
+    "osm_id": 6003065086,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "المدرسة الهندية",
+    "category": "school",
+    "latitude": 24.3399806,
+    "longitude": 56.7463572,
+    "osm_type": "node",
+    "osm_id": 1923573188,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة أم سلمه الثانويه",
+    "category": "school",
+    "latitude": 24.3397658,
+    "longitude": 56.7437297,
+    "osm_type": "way",
+    "osm_id": 1042579474,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة الرساله للتعليم الأساسي",
+    "category": "school",
+    "latitude": 24.2691219,
+    "longitude": 56.8029346,
+    "osm_type": "way",
+    "osm_id": 1046083762,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة الزهور",
+    "category": "school",
+    "latitude": 24.2817418,
+    "longitude": 56.7906124,
+    "osm_type": "way",
+    "osm_id": 1046083770,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة الشفاء للتعليم الأساسي بنات",
+    "category": "school",
+    "latitude": 24.4497456,
+    "longitude": 56.6633675,
+    "osm_type": "way",
+    "osm_id": 983116504,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة بلقيس للتعليم الأساسي",
+    "category": "school",
+    "latitude": 24.3064977,
+    "longitude": 56.7759667,
+    "osm_type": "way",
+    "osm_id": 1042929301,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة مسعود بن رمضان",
+    "category": "school",
+    "latitude": 24.36514,
+    "longitude": 56.7170058,
+    "osm_type": "node",
+    "osm_id": 4308297789,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مدرسة واحة المعرفة الخاصه",
+    "category": "school",
+    "latitude": 24.3236044,
+    "longitude": 56.6986416,
+    "osm_type": "node",
+    "osm_id": 9546674285,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "supermarket",
+    "latitude": 24.4077159,
+    "longitude": 56.7045193,
+    "osm_type": "node",
+    "osm_id": 3212210013,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "supermarket",
+    "latitude": 24.4369739,
+    "longitude": 56.6457128,
+    "osm_type": "node",
+    "osm_id": 3212210014,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "",
+    "category": "supermarket",
+    "latitude": 24.3492444,
+    "longitude": 56.6873553,
+    "osm_type": "node",
+    "osm_id": 9922494719,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "AL EWAN Hypermarket",
+    "category": "supermarket",
+    "latitude": 24.4354748,
+    "longitude": 56.6083328,
+    "osm_type": "node",
+    "osm_id": 8852067989,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al jezeera super market",
+    "category": "supermarket",
+    "latitude": 24.3595477,
+    "longitude": 56.7218027,
+    "osm_type": "node",
+    "osm_id": 4373246991,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al Kamashki",
+    "category": "supermarket",
+    "latitude": 24.3679799,
+    "longitude": 56.745982,
+    "osm_type": "node",
+    "osm_id": 6207233486,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Al meera",
+    "category": "supermarket",
+    "latitude": 24.4191695,
+    "longitude": 56.604514,
+    "osm_type": "way",
+    "osm_id": 374793527,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Carrefour Market",
+    "category": "supermarket",
+    "latitude": 24.38968,
+    "longitude": 56.6964391,
+    "osm_type": "node",
+    "osm_id": 6053283690,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "China Down Town",
+    "category": "supermarket",
+    "latitude": 24.4430452,
+    "longitude": 56.6100373,
+    "osm_type": "node",
+    "osm_id": 8852185268,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Fine fair",
+    "category": "supermarket",
+    "latitude": 24.3368632,
+    "longitude": 56.7352252,
+    "osm_type": "node",
+    "osm_id": 849418049,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Grand Hypermarket",
+    "category": "supermarket",
+    "latitude": 24.3601092,
+    "longitude": 56.7456798,
+    "osm_type": "way",
+    "osm_id": 750728794,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Hypermarket",
+    "category": "supermarket",
+    "latitude": 24.3483345,
+    "longitude": 56.737483,
+    "osm_type": "node",
+    "osm_id": 3212210627,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Lemon Hypermarket",
+    "category": "supermarket",
+    "latitude": 24.3594848,
+    "longitude": 56.7449506,
+    "osm_type": "node",
+    "osm_id": 6601168485,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Medina Alwafa",
+    "category": "supermarket",
+    "latitude": 24.4692379,
+    "longitude": 56.6010097,
+    "osm_type": "node",
+    "osm_id": 6205636186,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Nesto",
+    "category": "supermarket",
+    "latitude": 24.3387541,
+    "longitude": 56.7333585,
+    "osm_type": "node",
+    "osm_id": 1042872533,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Palm gardens",
+    "category": "supermarket",
+    "latitude": 24.3360746,
+    "longitude": 56.7354441,
+    "osm_type": "node",
+    "osm_id": 9386448794,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Redtag",
+    "category": "supermarket",
+    "latitude": 24.3366098,
+    "longitude": 56.7354838,
+    "osm_type": "node",
+    "osm_id": 9386448793,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "Shabab Al khaleej Hypermarket",
+    "category": "supermarket",
+    "latitude": 24.4203221,
+    "longitude": 56.6692662,
+    "osm_type": "way",
+    "osm_id": 982893496,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الفلج هايبرماركت",
+    "category": "supermarket",
+    "latitude": 24.419816,
+    "longitude": 56.6183424,
+    "osm_type": "way",
+    "osm_id": 988326541,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "الميرة هايبر ماركت",
+    "category": "supermarket",
+    "latitude": 24.3835264,
+    "longitude": 56.7002928,
+    "osm_type": "node",
+    "osm_id": 3731413854,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "سفير مول",
+    "category": "supermarket",
+    "latitude": 24.3619797,
+    "longitude": 56.7114747,
+    "osm_type": "way",
+    "osm_id": 117866144,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "سوق صحار الجديد",
+    "category": "supermarket",
+    "latitude": 24.3399988,
+    "longitude": 56.7318999,
+    "osm_type": "node",
+    "osm_id": 1267436937,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "كارفور",
+    "category": "supermarket",
+    "latitude": 24.3618944,
+    "longitude": 56.7110952,
+    "osm_type": "node",
+    "osm_id": 4308297389,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز اللولو",
+    "category": "supermarket",
+    "latitude": 24.3402173,
+    "longitude": 56.7306617,
+    "osm_type": "node",
+    "osm_id": 849418065,
+    "source": "OpenStreetMap"
+  },
+  {
+    "name": "مركز يابلاش للتسوق",
+    "category": "supermarket",
+    "latitude": 24.383344,
+    "longitude": 56.7009133,
+    "osm_type": "node",
+    "osm_id": 7902832687,
+    "source": "OpenStreetMap"
+  }
+]
