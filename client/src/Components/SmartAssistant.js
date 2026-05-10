@@ -70,7 +70,7 @@ function SmartAssistant({ locale = "ar" }) {
     setIsLoading(true);
 
     try {
-      const response = await fetch(buildApiUrl("/api/chat"), {
+      const response = await fetch(buildApiUrl("/api/smart-assistant"), {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

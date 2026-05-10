@@ -8,6 +8,7 @@ import Login from "./Components/Login.jsx";
 import MapAnalysis from "./Components/MapAnalysis";
 import Profile from "./Components/Profile";
 import Register from "./Components/Register.jsx";
+import ScrollToTop from "./Components/ScrollToTop";
 import SiteHeader from "./Components/SiteHeader";
 import SmartAssistant from "./Components/SmartAssistant";
 import { ThemeProvider } from "./ThemeContext";
@@ -17,6 +18,7 @@ function AppShell() {
 
   return (
     <>
+      <ScrollToTop />
       <IntroSplash />
       <SiteHeader locale={locale} setLocale={setLocale} showCta />
       <Routes>

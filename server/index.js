@@ -74,11 +74,31 @@ const RELATIVE_LOCATION_FEATURES_PATH =
 const RELATIVE_OSM_POIS_SOHAR_PATH =
   "data/processed/osm_pois_sohar.json";
 const RELATIVE_RENTAL_SEED_DATA_PATH = "data/rentalSeedData.js";
+const GEMINI_KEY_MISSING_ERROR = "GEMINI_API_KEY is not configured on the server.";
+const allowedCorsOrigins = new Set(
+  [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    ...(process.env.CLIENT_URL || "")
+      .split(",")
+      .map((url) => url.trim().replace(/\/+$/, "")),
+  ].filter(Boolean)
+);
 
 mongoose.set("strictQuery", true);
 
 app.use(express.json());
-app.use(cors());
+app.use(
+  cors({
+    origin(origin, callback) {
+      if (!origin || allowedCorsOrigins.has(origin.replace(/\/+$/, ""))) {
+        return callback(null, true);
+      }
+
+      return callback(null, false);
+    },
+  })
+);
 
 function redactMongoCredentials(value = "") {
   return String(value).replace(
@@ -819,7 +839,7 @@ async function generateGeminiReply(message) {
   const apiKey = process.env.GEMINI_API_KEY;
 
   if (!apiKey || apiKey === "PUT_YOUR_KEY_HERE") {
-    throw new Error("Gemini API key is not configured.");
+    throw new Error(GEMINI_KEY_MISSING_ERROR);
   }
 
   const response = await fetch(
@@ -863,7 +883,7 @@ app.get("/api/health", (req, res) => {
   });
 });
 
-app.post("/api/chat", async (req, res) => {
+async function smartAssistantHandler(req, res) {
   const message = String(req.body?.message || "").trim();
 
   if (!message) {
@@ -874,16 +894,22 @@ app.post("/api/chat", async (req, res) => {
     const reply = await generateGeminiReply(message);
     return res.status(200).json({ reply });
   } catch (error) {
-    console.error("Chat request failed.");
+    console.error("Smart Assistant request failed:", error.message);
 
-    const statusCode =
-      error.message === "Gemini API key is not configured." ? 500 : 502;
+    if (error.message === GEMINI_KEY_MISSING_ERROR) {
+      return res.status(500).json({
+        error: GEMINI_KEY_MISSING_ERROR,
+      });
+    }
 
-    return res.status(statusCode).json({
-      error: "Chat request failed.",
+    return res.status(502).json({
+      error: "Smart Assistant request failed. Please try again later.",
     });
   }
-});
+}
+
+app.post("/api/smart-assistant", smartAssistantHandler);
+app.post("/api/chat", smartAssistantHandler);
 
 async function registerUserHandler(req, res) {
   try {
